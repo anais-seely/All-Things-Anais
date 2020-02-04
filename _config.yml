@@ -3,7 +3,7 @@ title: All Things Anaïs
 description: > # this means to ignore newlines until "baseurl:"
   
 url: https://anais-seely.github.io
-baseurl: /All-Things-Anais-anais-seely
+baseurl: /All-Things-Anais
 
 disqus_shortname: kuoa # leave empty if you don't want comments
 google_analytics: false #if set to "true" modify the google_analytycs.html, set to false otherwise
