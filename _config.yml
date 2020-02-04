@@ -21,9 +21,6 @@ links:
   - name:         Youtube
     url:          https://www.youtube.com/c/AnaisSeely
     external:     true
--   name:         Instagram
-    url:          https://www.instagram.com/anais.seely/?hl=en
-    external:     true
     
 # Build settings
 markdown: kramdown
