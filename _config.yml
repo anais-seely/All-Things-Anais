@@ -18,7 +18,6 @@ links:
   - name:         Archive
     url:          /archive
     external:     false
-    external:     false
   - name:         Youtube
     url:          https://www.youtube.com/c/AnaisSeely
     external:     true
