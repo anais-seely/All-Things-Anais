@@ -12,12 +12,12 @@ google_analytics: false #if set to "true" modify the google_analytycs.html, set 
 links:
   - name:         Home
     url:          /
-  - name:         About
-    url:          /about
-    external:     false
   - name:         Archive
     url:          /archive
     external:     false
+  - name:         Instagram
+    url:          https://www.instagram.com/anais.seely/?hl=en
+    external:     true
   - name:         Youtube
     url:          https://www.youtube.com/c/AnaisSeely
     external:     true
