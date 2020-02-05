@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Post with a Video"
+title: "All Things Beauty"
 date: 2020-02-04 22:00:00
 description: "Custom written post descriptions are the way to go... if you're not lazy."
 author: Anais Seely
