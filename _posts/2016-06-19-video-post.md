@@ -13,7 +13,11 @@ tags: books, video
 # All Things Beauty.
 
 ## How it all started...
-I'm sure some people have some really interesting stories about how their love for make up started. They snuck into their mum's room and stole a red lipstick, smearing it all over their faces to be caught out with a crumbled product all over their hands, face and the hard wood floor. So if you're expecting that from me, you're wrong.
+
+I'm sure some people have some really interesting stories about how their love for make up started. They snuck into their mum's room and stole a red lipstick, smearing it all over their faces to be caught out with a crumbled product all over their hands, face and the hard wood floor. 
+
+So if you're expecting that from me, you're wrong.
+
 My love for make up started by sitting with my dad in the office room in our house. I would grab a red crayon and draw a spot on my skin, place the weird yellow crusty part of the soap on top and cover with nail varnish. Special effect make up you could say. What I had created was an oozing replica of a spot, my Dad a guinea pig who was demanded to squat it. That is my story. A love for trying to create special effect make up.
 
 
