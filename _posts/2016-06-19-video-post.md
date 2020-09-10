@@ -22,4 +22,4 @@ My love for make up started by sitting with my dad in the office room in our hou
 
 <center><img src="{{site.baseurl}}/assets/fortune.jpg" alt="fortune photo"></center><br>
 
-<center><img src="{{site.baseurl}}/assets/logo.png" alt="My Logo"></center><br>
+
