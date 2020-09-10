@@ -8,7 +8,7 @@ category: Beauty
 tags: books, video
 ---
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/watch?v=HkuQt59VV9w" frameborder="0" allowfullscreen></iframe></center><br>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/HkuQt59VV9w" frameborder="0" allowfullscreen></iframe></center><br>
 
 # All Things Beauty.
 
